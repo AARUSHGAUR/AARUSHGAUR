@@ -69,21 +69,6 @@ Currently focused on: vulnerability research, exploit development, and scalable 
 
 ---
 
-### Featured Projects
-
-> *Pin these repositories on your profile for maximum impact.*
-
-| Project | Description |
-|:---|:---|
-| **[recon-engine](https://github.com/AARUSHGAUR)** | Automated reconnaissance framework for bug bounty and red team ops |
-| **[vuln-scanner](https://github.com/AARUSHGAUR)** | Lightweight vulnerability scanner with custom detection modules |
-| **[ctf-arsenal](https://github.com/AARUSHGAUR)** | Curated exploit scripts, solvers, and writeups from CTF competitions |
-| **[netwatch](https://github.com/AARUSHGAUR)** | Real-time network traffic analyzer with anomaly detection |
-| **[secure-api-template](https://github.com/AARUSHGAUR)** | Production-ready API boilerplate with built-in security hardening |
-| **[dotfiles](https://github.com/AARUSHGAUR)** | Minimal, security-focused dev environment configuration |
-
----
-
 ### GitHub Analytics
 
 <div align="center">
