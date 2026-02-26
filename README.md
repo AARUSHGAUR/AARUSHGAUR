@@ -83,11 +83,9 @@ Currently focused on: vulnerability research, exploit development, and scalable 
 ### Currently Learning
 
 ```text
-🔬 Advanced Binary Exploitation     ████████████░░░░░░░░   60%
-🛡️ Cloud Security (AWS/GCP)         ██████████░░░░░░░░░░   50%
-🧠 Malware Analysis & Reverse Eng   ████████████████░░░░   80%
-⚙️ Rust for Systems Programming     ████████░░░░░░░░░░░░   40%
-🕸️ Web3 Security                    ██████░░░░░░░░░░░░░░   30%
+🕸️ Web3 Security
+⚙️ Rust for Systems Programming
+🔬 Advanced Binary Exploitation
 ```
 
 ---
