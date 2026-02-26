@@ -69,27 +69,28 @@ Currently focused on: vulnerability research, exploit development, and scalable 
 
 ---
 
-### GitHub Trophies
+### CTF Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AARUSHGAUR&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
-
-### Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AARUSHGAUR/AARUSHGAUR/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AARUSHGAUR/AARUSHGAUR/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/AARUSHGAUR/AARUSHGAUR/output/github-snake-dark.svg" />
-</picture>
+| Competition | Rank | Organizer |
+|:---|:---|:---|
+| 🥇 **Black Hat USA CTF 2025** | Global Rank **#16** | Bugcrowd |
+| 🥇 **Pentathon 2025** | Rank **#14** Nationwide | NCIIPC (Govt. of India) |
+| 🏅 **CyberTEA-3.0 CTF** | Rank **#5** | IIIT Sri City |
+| 🏅 **LNMHacks 8.0 CTF** | Rank **#6** | LNMIIT |
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AARUSHGAUR&style=flat-square&color=58a6ff&label=Profile+Views" />
-</div>
+### Currently Learning
+
+```text
+🔬 Advanced Binary Exploitation     ████████████░░░░░░░░   60%
+🛡️ Cloud Security (AWS/GCP)         ██████████░░░░░░░░░░   50%
+🧠 Malware Analysis & Reverse Eng   ████████████████░░░░   80%
+⚙️ Rust for Systems Programming     ████████░░░░░░░░░░░░   40%
+🕸️ Web3 Security                    ██████░░░░░░░░░░░░░░   30%
+```
+
+---
 
 <div align="center">
   <sub>Building things that matter — one commit at a time.</sub>
